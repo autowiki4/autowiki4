@@ -38,9 +38,6 @@ School chatbot using Flask + Perplexity API to improve website accessibility
 Explored effects of Xavier, He, and random initialization on MLP convergence  
 <sub>Presented at Thinking Beyond · Poster received 2nd place</sub>
 
-🔹 **Finance Trend Analysis Dashboard**  
-Built with Docker, Python, HTML/CSS at Bloomberg Campus Tech Lab  
-<sub>Improved visualization efficiency by 40% · Reduced environment setup time by 87%</sub>
 
 ---
 
